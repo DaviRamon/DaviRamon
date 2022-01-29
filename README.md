@@ -5,16 +5,13 @@
 
 ## I’m currently learning Android app development.
 
-<i class="devicon-android-plain-wordmark colored"></i>
-
 <div style="display: inline_block">
-
-  
-<img align="center" alt="davi-linux" height="190" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" href="https://www.https://github.com/DaviRamon"/>
-<img align="center" alt="davi-kotlin" height="190" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
-<img img align="center" alt="davi-gradle" height="190" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />
-<img img align="center" alt="davi-java" height="130" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-<img align="center" alt="davi-Android" height="130" width="110" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">
+  <a href="https://www.https://github.com/DaviRamon">
+  <img align="center" alt="davi-kotlin" height="190" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+  <img align="center" alt="davi-linux" height="190" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img img align="center" alt="davi-java" height="130" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+  <img img align="center" alt="davi-gradle" height="190" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />
+  <img align="center" alt="davi-Android" height="130" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
 </div>
 
 
