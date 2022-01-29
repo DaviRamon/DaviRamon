@@ -14,6 +14,7 @@
   <img align="center" alt="davi-linux" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img align="center" alt="davi-java" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
   <img align="center" alt="davi-firebase" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+  <img align="center" alt="davi-node" height="140" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
   
   
