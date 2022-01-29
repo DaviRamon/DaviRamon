@@ -6,7 +6,7 @@
 ## I’m currently learning Android app development.
 
 <div style="display: inline_block">
-  <a href="https://www.https://www.github.com/DaviRamon">
+  <a href="https://www.github.com/DaviRamon">
   <img align="center" alt="davi-kotlin" height="190" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
   <img align="center" alt="davi-linux" height="190" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img img align="center" alt="davi-java" height="130" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
