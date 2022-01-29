@@ -8,7 +8,7 @@
 <i class="devicon-android-plain-wordmark colored"></i>
 
 <div style="display: inline_block">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
   
 <img align="center" alt="davi-linux" height="190" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="davi-kotlin" height="190" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
