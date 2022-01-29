@@ -1,9 +1,14 @@
 <header> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> </header>
 
+### Hi there ! 👋 
 
-### Hi there ! 👋
+<div style="display: inline_block">
+  <a href="www.linkedin.com/in/davi-gonçalves-a5171022a" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div> 
+
 
 ## I’m currently learning Android app development.
+
 
 <div style="display: inline_block">
   <a href="https://www.github.com/DaviRamon">
@@ -13,6 +18,13 @@
   <img img align="center" alt="davi-gradle" height="190" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />
   <img align="center" alt="davi-Android" height="130" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
 </div>
+</br></br>
+
+<div> <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> </div>
+
+
+
+  
 
 
 
