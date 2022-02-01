@@ -10,15 +10,15 @@
 <div style="display: inline_block">
   
   <a href="https://nodejs.org/en/docs/guides/">
-  <img align="center" alt="davi-node" height="140" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="davi-node" height="100" width="120"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> 
-  <img align="center" alt="davi-html5" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="davi-html5" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img align="center" alt="davi-css" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <img align="center" alt="davi-css" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   </a>
   
   
@@ -27,7 +27,7 @@
   </a>
     
   <a href="https://laravel.com/">
-  <img align="center" alt="davi-firebase" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+  <img align="center" alt="davi-laravel" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
   </a>
  
   <a href="https://education.oracle.com/pt_BR/software/java/pFamily_48">
@@ -35,11 +35,11 @@
   </a>
   
   <a href="https://firebase.google.com/?hl=pt-br">
-  <img align="center" alt="davi-firebase" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+  <img align="center" alt="davi-firebase" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
   </a>
   
   <a href="https://www.mysql.com/">
-  <img align="center" alt="davi-firebase" height="120" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="davi-mysql" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   </a>
 
  
