@@ -41,8 +41,13 @@
   <a href="https://www.mysql.com/">
   <img align="center" alt="davi-mysql" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   </a>
+  
+  <a href="https://pt-br.reactjs.org/">
+  <img align="center" alt="davi-react" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
+  
+  
 
- 
 
 </div>
   
