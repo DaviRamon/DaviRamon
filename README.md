@@ -14,36 +14,36 @@
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> 
-  <img align="center" alt="davi-html5" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="davi-html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img align="center" alt="davi-css" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="davi-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
 
   
   <a href="https://ubuntu.com/download">
-  <img align="center" alt="davi-linux" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img align="center" alt="davi-linux" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   </a>
     
   <a href="https://laravel.com/">
-  <img align="center" alt="davi-laravel" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+  <img align="center" alt="davi-laravel" height="40" width="600" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
   </a>
  
   <a href="https://education.oracle.com/pt_BR/software/java/pFamily_48">
-  <img align="center" alt="davi-java" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+  <img align="center" alt="davi-java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
   </a>
   
   <a href="https://firebase.google.com/?hl=pt-br">
-  <img align="center" alt="davi-firebase" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+  <img align="center" alt="davi-firebase" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
   </a>
   
   <a href="https://www.mysql.com/">
-  <img align="center" alt="davi-mysql" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="davi-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   </a>
   
   <a href="https://pt-br.reactjs.org/">
-  <img align="center" alt="davi-react" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="davi-react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
   
   
