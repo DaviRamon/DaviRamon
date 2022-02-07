@@ -10,7 +10,7 @@
 <div style="display: inline_block">
   
   <a href="https://nodejs.org/en/docs/guides/">
-  <img align="center" alt="davi-node" height="100" width="120"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="davi-node" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> 
@@ -27,7 +27,7 @@
   </a>
     
   <a href="https://laravel.com/">
-  <img align="center" alt="davi-laravel" height="40" width="600" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+  <img align="center" alt="davi-laravel" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
   </a>
  
   <a href="https://education.oracle.com/pt_BR/software/java/pFamily_48">
