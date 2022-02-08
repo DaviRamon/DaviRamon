@@ -4,7 +4,7 @@
 
 
 
-## I’m currently learning Backend development with NodeJS.
+## I’m currently working with NodeJS.
 
 
 <div style="display: inline_block">
