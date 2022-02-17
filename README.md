@@ -34,17 +34,12 @@
   <img align="center" alt="davi-java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
   </a>
   
-  <a href="https://firebase.google.com/?hl=pt-br">
-  <img align="center" alt="davi-firebase" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
-  </a>
   
   <a href="https://www.mysql.com/">
   <img align="center" alt="davi-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   </a>
   
-  <a href="https://pt-br.reactjs.org/">
-  <img align="center" alt="davi-react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
+
   
   
 
