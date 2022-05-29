@@ -26,9 +26,6 @@
   <img align="center" alt="davi-linux" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   </a>
     
-  <a href="https://laravel.com/">
-  <img align="center" alt="davi-laravel" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
-  </a>
  
   <a href="https://education.oracle.com/pt_BR/software/java/pFamily_48">
   <img align="center" alt="davi-java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
