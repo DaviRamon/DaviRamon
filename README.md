@@ -10,7 +10,7 @@
 <div style="display: inline_block">
   
   <a href="https://nodejs.org/en/docs/guides/">
-  <img align="center" alt="davi-node" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="davi-node" height="80" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> 
@@ -27,9 +27,7 @@
   </a>
     
  
-  <a href="https://education.oracle.com/pt_BR/software/java/pFamily_48">
-  <img align="center" alt="davi-java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-  </a>
+
   
   
   <a href="https://www.mysql.com/">
