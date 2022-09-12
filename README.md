@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviramon&label=Profile%20views&color=0e75b6&style=flat" alt="daviramon" /> </p>
 
-- 🌱 I’m currently learning **Docker, Typesctipt and RabbitMQ**
+- 🌱 I’m currently learning **Typesctipt, Jest, Docker and RabbitMQ**
 
 - 💬 Ask me about **NodeJS**
 
