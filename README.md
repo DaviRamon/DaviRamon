@@ -7,7 +7,7 @@
 
 - 🔭 allocated on [Vivo Aura](https://www.vivo.com.br/para-voce/ajuda/mais-ajuda/fale-com-a-vivo/aura)
 
-- 💬 Ask me about **Typescript, Jest, Podman, MongoDB and others technologies.**
+- 💬 Ask me about **Typescript, Docker, MongoDB and others technologies.**
 
 - 📫 How to reach me **eudavi.ramon@gmail.com**
 
